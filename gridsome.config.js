@@ -26,13 +26,12 @@ module.exports = {
         }
       }
     },
-      {
-      use: '@zefman/gridsome-source-instagram',
+     {
+      use: `gridsome-plugin-netlify-cms`,
       options: {
-        username: 'vmartuniyk' ,// Instagram username
-        typeName: 'mafia_travel' // The GraphQL type you want the photos to be added under. Defaults to InstagramPhoto
+        publicPath: `/admin`
       }
-    }
+    },
   ],
 
   transformers: {

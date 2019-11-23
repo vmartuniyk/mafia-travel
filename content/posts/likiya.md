@@ -1,8 +1,9 @@
 ---
-title: Як подолати 540 км по Лікійській стежці за 8 днів?
+title: How road 540 km in Likian Way for 8 days?
 tags:
   - Лікійська стежка Турція
 date: 2019-01-07T00:00:00.000Z
+published: true
 cover_image: /uploads/likiya.jpg
 ---
 * Маршрут

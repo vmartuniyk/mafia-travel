@@ -26,6 +26,12 @@ module.exports = {
         }
       }
     },
+        {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-XXXXXXXXX-X'
+      }
+    },
      {
       use: `gridsome-plugin-netlify-cms`,
       options: {

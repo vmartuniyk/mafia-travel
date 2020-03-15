@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Mafia Travel',
-  siteDescription: 'Цікаві місця для трекінгу а також закинуті, мальовниці місця  України та не тільки для класних мандрівок',
+  siteDescription: 'Цікаві місця для трекінгу а також закинуті, мальовниці маршрути  для ваших мандрівок Україною та закордоном',
 
   plugins: [
     {
@@ -29,7 +29,7 @@ module.exports = {
         {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-XXXXXXXXX-X'
+        id: 'UA-136676909-3'
       }
     },
      {
